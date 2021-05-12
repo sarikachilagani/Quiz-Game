@@ -88,3 +88,5 @@ options = (data['options'])
 answer = (data['answer'])
 quiz = Quiz(gui)
 gui.mainloop()
+
+
